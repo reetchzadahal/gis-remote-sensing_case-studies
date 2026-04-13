@@ -88,7 +88,7 @@ Remote sensing and GIS-based drought assessment can support:
 
 ## Files
 
-* `agricultural_drought_fao_2022_2023.pdf` – Full case study with detailed analysis and bibliography
+* [Report](./agricultural_drought_fao_2022_2023.pdf) – Full case study with detailed analysis and references
 
 
 ## Disclaimer
