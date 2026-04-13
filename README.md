@@ -6,7 +6,6 @@ This repository is a collection of case studies and analytical projects focused 
 
 The work primarily involves the use of geospatial data, satellite imagery, and spatial analysis techniques to understand real-world problems such as drought, land degradation, and food security.
 
----
 
 ## Case Studies Included
 
@@ -17,7 +16,6 @@ The work primarily involves the use of geospatial data, satellite imagery, and s
 * Comparative study across multiple years
 * Application for food security and climate resilience
 
----
 
 ## Tools and Technologies
 
@@ -27,7 +25,6 @@ The work primarily involves the use of geospatial data, satellite imagery, and s
 * Vegetation indices (NDVI, VCI)
 * Spatial analysis techniques
 
----
 
 ## Key Skills Demonstrated
 
@@ -37,13 +34,11 @@ The work primarily involves the use of geospatial data, satellite imagery, and s
 * GIS-based visualization
 * Analytical reporting
 
----
 
 ## Purpose of this Repository
 
 This repository serves as a portfolio of my work in GIS and Remote Sensing, showcasing my ability to analyze environmental data and derive meaningful insights for real-world applications.
 
----
 
 ## Future Work
 
@@ -53,13 +48,11 @@ Additional case studies will be added, including:
 * Land cover classification
 * Climate and environmental monitoring projects
 
----
 
 ## Author
 
 Richa Dahal
 
----
 
 ## Disclaimer
 
